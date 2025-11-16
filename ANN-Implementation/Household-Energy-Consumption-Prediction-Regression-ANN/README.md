@@ -36,7 +36,6 @@ The model uses a feed-forward neural network to learn patterns from energy usage
 
 - Dataset: `household_power_consumption.txt`
 - Total rows in raw dataset: Over 2 million  
-- For this project, a random sample of **25,000 rows** is used.
 - Target column: `Global_active_power`
 
 Dataset features include:
@@ -91,7 +90,7 @@ Dense(1, activation='linear')
 
 ## Training
 
-- Epochs: 20  
+- Epochs: 50  
 - Batch Size: 512  
 - Validation split: 20%  
 - Model learns consistently without overfitting.
