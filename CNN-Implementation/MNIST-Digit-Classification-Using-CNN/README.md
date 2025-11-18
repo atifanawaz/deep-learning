@@ -1,4 +1,4 @@
-# MNIST_Digit_Classification_Using_CNN
+# MNIST Digit Classification Using CNN
 
 A deep Convolutional Neural Network (CNN) to classify handwritten digits (0–9) using the MNIST dataset. The project includes data augmentation to improve generalization and achieve high accuracy even with a subset of the dataset.
 
