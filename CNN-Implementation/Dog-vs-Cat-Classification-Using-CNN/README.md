@@ -64,6 +64,5 @@ This project focuses on building a Convolutional Neural Network (CNN) to classif
 - Implement early stopping and model checkpointing
 
 ## References
-- Kaggle Dogs vs Cats Dataset: https://www.kaggle.com/c/dogs-vs-cats
 - TensorFlow CNN Guide: https://www.tensorflow.org/tutorials/images/cnn
 
